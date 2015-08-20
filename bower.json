@@ -1,0 +1,19 @@
+{
+  "name": "cssreset",
+  "version": "1.0.0",
+  "main": "reset.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+	"*.scss",
+  ],
+  "devDependencies": {
+  },
+  "keywords": [
+    "kissymini",
+    "css",
+    "library",
+	"reset",
+	"cssreset"
+  ]
+}
