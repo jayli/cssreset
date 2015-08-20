@@ -9,6 +9,8 @@
   ],
   "devDependencies": {
   },
+  "dependencies":{
+  },
   "keywords": [
     "kissymini",
     "css",
