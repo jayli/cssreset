@@ -128,11 +128,4 @@ a {
   text-overflow: ellipsis;
   white-space: nowrap; }
 
-@font-face {
-  font-family: 'iconfont';
-  src: url("//at.alicdn.com/t/font_1433987245_5399234.eot");
-  /* IE9*/
-  src: url("//at.alicdn.com/t/font_1433987245_5399234.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_1433987245_5399234.woff") format("woff"), url("//at.alicdn.com/t/font_1433987245_5399234.ttf") format("truetype"), url("//at.alicdn.com/t/font_1433987245_5399234.svg#iconfont") format("svg");
-  /* iOS 4.1- */ }
-
 /*# sourceMappingURL=reset.css.map */
