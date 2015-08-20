@@ -5,7 +5,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-	"*.scss",
+	"*.scss"
   ],
   "devDependencies": {
   },
